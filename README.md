@@ -1,5 +1,6 @@
-# Arduino_PWM
-Arduino PWM Modules for Kovsky
+# Kovksy PWM Controllers
+
+PWM Modules for Kovsky Cricket Bowling Machine
 
 -Recieve PWM Value over Serial
 
